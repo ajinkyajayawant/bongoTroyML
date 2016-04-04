@@ -1,4 +1,4 @@
-# bongoTroyML
+# bongoTroyML project
 ### git basic commmands:
 ```bash
 cd c/Users/alokdiwakar/Documents/MachineLearning/BongoTroy
